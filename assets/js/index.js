@@ -75,7 +75,7 @@ function deleteTask(index) {
 }
 
 function genereteId(){
-    return Math.floor(Math.random() * 3000 )
+    return Math.floor(Math.random() * 10 )
  
  }
  
