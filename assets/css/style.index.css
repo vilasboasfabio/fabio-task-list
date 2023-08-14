@@ -108,7 +108,7 @@ body{
    margin-left: 3%;
     margin-top: auto;
     margin-bottom: auto;
-   
+  
 }
 #showTask{
     display: flex;
@@ -121,4 +121,7 @@ body{
 #task button:hover{
     background-color: #525151;
     cursor: pointer;
+}
+.edit-button{
+ background-color: rgb(60, 60, 204);
 }
